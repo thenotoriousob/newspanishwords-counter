@@ -1,0 +1,49 @@
+body {
+    background-image: url("spanishwords.jpg");
+    background-size: cover;
+    font-family: Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+div {
+    background: #ffffff;
+    color: #ff7601e3;
+    width: 450px;
+    margin: 200px auto;
+    border: 4px solid #17488f;
+    border-radius: 20px;
+}
+
+#increment-btn {
+    background: #ff7601e3;
+    border: 2px solid #17488f;
+}
+
+#save-btn {
+    background: #17488f;
+    border: 2px solid #ff7601e3;
+}
+
